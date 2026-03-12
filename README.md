@@ -192,7 +192,7 @@ For inquiries: abuse@osintintelligence.xyz
 
 ## License
 
-This project is licensed under a Proprietary License - see LICENSE file for details.
+This project is licensed under a Proprietary License - see [License.md](License.md) file for details.
 
 Unauthorized copying, modification, distribution, or use is strictly prohibited.
 
@@ -207,3 +207,4 @@ This tool is for educational and authorized security testing only. Ensure you ha
 ---
 
 **Proprietary Software - All Rights Reserved**
+
